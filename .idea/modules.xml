@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/PaperPlanes.iml" filepath="$PROJECT_DIR$/.idea/PaperPlanes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/pyshopnew.iml" filepath="$PROJECT_DIR$/.idea/pyshopnew.iml" />
     </modules>
   </component>
 </project>
