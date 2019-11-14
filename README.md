@@ -1,4 +1,4 @@
-# PaperPlanes
-This Repo contains Some work i have done throughout my Django learning process
+# PaperPlanes- My Django Portfolio
+This Repo contains Some work I have done throughout my Django learning process
 
 Django Websites
