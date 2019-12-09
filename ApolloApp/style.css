@@ -122,3 +122,54 @@ body {
   font-size: 3rem;
   color: #fff;
 }
+/* Footer*/
+#footer {
+  height: 200px;
+}
+.footer-icon {
+  font-size: 2rem;
+  color: #5a34fc;
+  padding: 5% 3%;
+}
+
+/* Media Queries */
+
+@media only screen and (max-width: 1000px) {
+  .iphone-mock {
+    display: none;
+  }
+
+  .card {
+    margin: 20px 0;
+  }
+  #footer {
+    height: 100px;
+  }
+  .cta-text {
+    font-size: 2rem;
+  }
+  .section-title {
+    font-size: 2.5rem;
+  }
+  .header-info {
+    font-weight: 700;
+    font-size: 2rem;
+  }
+  .pricing-title {
+    margin-bottom: 100px;
+  }
+  #testimonials {
+    margin-top: 50px;
+    padding: 50px 0;
+  }
+  .carousel-item {
+    padding: 7% 10%;
+  }
+  .carousel-item h3 {
+    font-size: 2rem;
+  }
+  #pricing {
+    margin-top: 50px;
+    padding: 50px 0;
+  }
+}
